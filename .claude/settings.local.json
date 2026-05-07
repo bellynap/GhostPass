@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/usr/libexec/java_home:*)",
+      "Bash(brew:*)",
+      "Bash(nvm:*)",
+      "Bash(system_profiler SPUSBDataType:*)",
+      "Bash(/opt/homebrew/opt/node@22/bin/node:*)",
+      "Bash(java:*)",
+      "Bash(watchman:*)",
+      "Bash(echo:*)",
+      "Bash(~/Library/Android/sdk/platform-tools/adb version:*)",
+      "Bash(~/Library/Android/sdk/platform-tools/adb devices:*)",
+      "Bash(~/Library/Android/sdk/emulator/emulator:*)",
+      "Bash(solana:*)",
+      "Bash(npx:*)"
+    ]
+  }
+}
