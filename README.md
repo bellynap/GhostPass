@@ -12,7 +12,7 @@ GhostPass turns the physical world into a programmable layer for temporary secre
 
 ## Demo Video
 
-Demo video with audio: **Coming before final submission**
+Demo video with audio: [Watch the GhostPass demo](https://www.loom.com/share/31410ca6507540b993c97f8932f991cd)
 
 This video will show:
 1. Connecting through Solana Mobile Wallet Adapter using the Android fakewallet.
