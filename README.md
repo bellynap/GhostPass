@@ -1,6 +1,6 @@
 # GhostPass
 
-**Short summary (≤150 chars):** GhostPass hides temporary secrets at GPS locations. Get close, sign with your Solana wallet, unlock the secret — before it expires.
+**Short summary :** GhostPass hides temporary secrets at GPS locations. Get close, sign with your Solana wallet, unlock the secret — before it expires.
 
 ---
 
