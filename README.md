@@ -12,15 +12,31 @@ GhostPass turns the physical world into a programmable layer for temporary secre
 
 ## Demo Video
 
-<!-- TODO: Replace with YouTube / Loom link before submission -->
-_Demo video coming — see submission portal for link._
+Demo video with audio: **Coming before final submission**
+
+This video will show:
+1. Connecting through Solana Mobile Wallet Adapter using the Android fakewallet.
+2. Creating a GhostPass with a GPS unlock radius.
+3. Discovering a GhostPass through Explore.
+4. Unlocking through the distance gate.
+5. Recording a Solana devnet memo proof when funding/RPC is available.
+6. Falling back to **Local Demo Proof — Not On-Chain** when devnet funding/RPC is unavailable.
+7. Claiming a proof badge in Passport.
+8. A brief walkthrough of the repository structure.
 
 ## Screenshots
 
-<!-- TODO: Add screenshots before submission -->
-| Landing | Explore | Create | Unlock | Secret Reveal | Passport |
-|---------|---------|--------|--------|---------------|---------|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+| Landing / Connect | Explore by Type | Create GhostPass |
+|---|---|---|
+| ![Landing / Connect](assets/screenshots/01-landing-connect.png) | ![Explore by Type](assets/screenshots/02-explore-by-type.png) | ![Create GhostPass](assets/screenshots/03-create-radius.png) |
+
+| Distance Gate | Secret Reveal Proof | Passport Badge |
+|---|---|---|
+| ![Distance Gate](assets/screenshots/04-distance-gate.png) | ![Secret Reveal Proof](assets/screenshots/05-secret-reveal-proof.png) | ![Passport Badge](assets/screenshots/06-passport-badge.png) |
+
+| Wallet / Devnet Status |
+|---|
+| ![Wallet / Devnet Status](assets/screenshots/07-wallet-devnet.png) |
 
 ---
 
@@ -176,7 +192,7 @@ npx tsc --noEmit
 | Wallet | `@solana-mobile/mobile-wallet-adapter-protocol` v2.2.8 |
 | On-chain | `@solana/web3.js` v1.98.4 · Solana Memo Program |
 | Network | Solana devnet |
-| State | React Context (in-memory, no persistence) |
+| State | React Context for app state; AsyncStorage for wallet session persistence |
 
 ---
 
