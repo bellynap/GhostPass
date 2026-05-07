@@ -28,17 +28,15 @@ This video will show:
 
 | Landing / Connect | Explore by Type | Create GhostPass |
 |---|---|---|
-| ![Landing / Connect](assets/screenshots/01-landing-connect.png) | ![Explore by Type](assets/screenshots/02-explore-by-type.png) | ![Create GhostPass](assets/screenshots/03-create-radius.png) |
+| <img src="assets/screenshots/01-landing-connect.png" width="250" /> | <img src="assets/screenshots/02-explore-by-type.png" width="250" /> | <img src="assets/screenshots/03-create-radius.png" width="250" /> |
 
 | Distance Gate | Secret Reveal Proof | Passport Badge |
 |---|---|---|
-| ![Distance Gate](assets/screenshots/04-distance-gate.png) | ![Secret Reveal Proof](assets/screenshots/05-secret-reveal-proof.png) | ![Passport Badge](assets/screenshots/06-passport-badge.png) |
+| <img src="assets/screenshots/04-distance-gate.png" width="250" /> | <img src="assets/screenshots/05-secret-reveal-proof.png" width="250" /> | <img src="assets/screenshots/06-passport-badge.png" width="250" /> |
 
 | Wallet / Devnet Status |
 |---|
-| ![Wallet / Devnet Status](assets/screenshots/07-wallet-devnet.png) |
-
----
+| <img src="assets/screenshots/07-wallet-devnet.png" width="250" /> |
 
 ---
 
